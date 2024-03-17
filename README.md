@@ -1,2 +1,2 @@
 # calculator
-https://akbiplobsa.github.io/calculator/
+https://akbiplobs.github.io/calculator/
